@@ -7,6 +7,7 @@
 - Для чего у models.ManyToManyField нужен аргумент through
 - Как работает Meta.unique_together
 - Для чего нужны models.Manager и models.query.QuerySet
+- Какой сакральный смысл у `ger_or_create`
 - Почему опасно делать инкрементирование через Model.field += 1; Model.save() и как сделать правильно.
 
 ## Шаблоны
